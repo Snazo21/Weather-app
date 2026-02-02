@@ -7,7 +7,7 @@ Basic app for finding weather by searching for your city/town
 * **Error Handling:** Robust data validation to ensure the app doesn't crash during API downtime.
 
 ## Tech Stack
-* **Framework:** [Vue.js / Vite]
-* **API:** [OpenWeatherMap API]
-* **Styling:** [CSS]
-* **Icons:** [FontAwesome]
+* **Framework:** - Vue.js / Vite
+* **API:** - OpenWeatherMap API
+* **Styling:** - CSS
+* **Icons:** - FontAwesome
