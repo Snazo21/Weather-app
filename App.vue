@@ -84,7 +84,7 @@ export default {
   name: 'App',
   data(){
     return{
-      api_key: 'e0ea77b0476f1838f61a4ae2f2812fab',
+      api_key: '',
       url_base:'https://api.openweathermap.org/data/2.5/',
       query:'',//user input
       weather:{},//store the current weather results
